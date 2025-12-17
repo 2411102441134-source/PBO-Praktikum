@@ -136,5 +136,5 @@ if __name__ == "__main__":
     print("\n" + "-"*30 + "\n")
 
     # 5. Test Case 3: Gagal (IPK Rendah)
-    student_caca = Student("Caca", 1.5, 18) # IPK 1.5 (Kurang)
-    service.register_student(student_caca)
+    student_farhan = Student("Caca", 1.5, 18) # IPK 1.5 (Kurang)
+    service.register_student(student_farhan)
